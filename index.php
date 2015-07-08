@@ -9,7 +9,7 @@
 	</head>
 	<body>
 		<div class="side-bar">
-			<img src="img/LBTlogotop.PNG" alt="Codecourse logo" class="animated fadeIn">
+			<img src="img/LBTlogotop.PNG" alt="LBT logo" class="animated fadeIn">
 		</div>
 		<div class="container">
 			<h1 class="title animated fadeIn">We're closed for now, <span style="color: #99cc00;">really sorry.</span></h1>
